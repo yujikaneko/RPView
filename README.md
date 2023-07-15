@@ -4,6 +4,8 @@ Peripheral Vision Loss Simulator
 ## jcss.py
 jcss.py is a version "Hakodate" of the Peripheral Vision Loss Simulator, for 2023 Conference of Japan Cognitive Science Society.
 
+https://github.com/yujikaneko/RPView/assets/27996183/90df9291-d961-454d-b4d2-cd8c994f4360
+
 Here is the detail parameters of image processing:
 - Python: 3.8.16
 - numpy: 1.24.4
